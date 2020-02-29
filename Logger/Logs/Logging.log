@@ -1,0 +1,20 @@
+What operation you want to preform.......
+
+1.Interest Calculation
+2.Construction cost Estimation
+Enter your option : 
+
+1.Simple Interest
+2.Compond Interest
+Enter your option : 
+
+Enter Principal Amount : 
+
+Enter Rate of Interest : 
+
+Enter Time period : 
+
+Total Interest : 500.0 INR.
+
+Total Amount : 5500.0 INR.
+
